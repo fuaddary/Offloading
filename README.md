@@ -6,3 +6,5 @@ Rancang Bangun Mekanisme Computation Offloading berbasis model DMIPS untuk Penin
     2. Bluetooth Low Energy BT-05 / HM-10
     3. Arduino Uno
     4. IMU sensor
+    5. Raspi UPS HAT 
+
